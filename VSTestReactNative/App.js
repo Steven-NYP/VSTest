@@ -11,6 +11,7 @@ export default class App extends React.Component {
         <Text>Added A New Line.</Text>
         <Text>Added Another New Line.</Text>
         <Text>Added Another Another New Line.</Text>
+        <Text>Added One More Another Another New Line.</Text>
       </View>
     );
   }
