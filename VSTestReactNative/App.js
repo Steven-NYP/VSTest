@@ -12,7 +12,7 @@ export default class App extends React.Component {
         <Text>Added Another New Line.</Text>
         <Text>Added Another Another New Line.</Text>
         <Text>Added One More Another Another New Line.</Text>
-        <Text>Added New Line.</Text>
+        <Text>Added New Line 1.</Text>
       </View>
     );
   }
